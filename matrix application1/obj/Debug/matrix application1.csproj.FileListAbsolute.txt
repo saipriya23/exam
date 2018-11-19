@@ -1,0 +1,7 @@
+C:\Users\saipriyak\source\repos\matrix application1\matrix application1\bin\Debug\matrix application1.exe.config
+C:\Users\saipriyak\source\repos\matrix application1\matrix application1\bin\Debug\matrix application1.exe
+C:\Users\saipriyak\source\repos\matrix application1\matrix application1\bin\Debug\matrix application1.pdb
+C:\Users\saipriyak\source\repos\matrix application1\matrix application1\obj\Debug\matrix application1.csproj.CoreCompileInputs.cache
+C:\Users\saipriyak\source\repos\matrix application1\matrix application1\obj\Debug\matrix application1.exe
+C:\Users\saipriyak\source\repos\matrix application1\matrix application1\obj\Debug\matrix application1.pdb
+C:\Users\saipriyak\source\repos\matrix application1\matrix application1\obj\Debug\matrix application1.csprojAssemblyReference.cache
